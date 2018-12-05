@@ -1,4 +1,6 @@
 # Oh My Lock
+2018.11 KB App Challenge 장려상
+
 이 문서는 Oh My Lock 어플리케이션에서 사용되는 API에 대해 기술합니다.
  
 ### API specifications
